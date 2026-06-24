@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Jebastin%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Generative%20AI%20Engineer&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a8edea,50:38bdf8,100:0ea5e9&height=180&section=header&text=Jebastin%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Generative%20AI%20Engineer&descAlignY=55&descSize=18"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Second-Year+CSE+Student+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%9A%80;Generative+AI+Engineer+%F0%9F%A4%96;Building+Scalable+AI+Products+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0ea5e9&center=true&vCenter=true&width=600&lines=Second-Year+CSE+Student+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%9A%80;Generative+AI+Engineer+%F0%9F%A4%96;Building+Scalable+AI+Products+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -207,7 +207,7 @@ Monitors **100+ NSE stocks** across 10 sectors. EMA-20/50 crossover + RSI + volu
 <br/>
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a8edea,50:38bdf8,100:0ea5e9&height=100&section=footer"/>
 
 <br/>
 
