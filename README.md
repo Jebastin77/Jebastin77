@@ -22,7 +22,7 @@
 
 ---
 
-##About Me
+## About Me
 
 <div align="center">
 
@@ -42,7 +42,7 @@
 
 ---
 
-##Tech Stack
+## Tech Stack
 
 <div align="center">
 
